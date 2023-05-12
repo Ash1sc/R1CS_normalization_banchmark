@@ -1,4 +1,4 @@
-# R1CS_normalization_banchmark
+# R1CS_normalization_benchmark
 This is a benchmark for normalization of R1CS
 
 We summarized some rules for generating equivalent R1CS constraint groups based on the logic used by the mainstream Circom compiler to generate R1CS, and designed a more comprehensive benchmark based on these rules. The benchmark includes the following main categories depending on the reflected situation:
